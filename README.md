@@ -70,16 +70,7 @@ customwoocheckout/
 ```
 
 ---
-
-## Licença
-
-MIT License
-
-```
-MIT License
-
 Copyright (c) 2025 [ManoBahia.Dev]
-
 
 ---
 
@@ -93,3 +84,11 @@ Copyright (c) 2025 [ManoBahia.Dev]
 
 **Desenvolvido por manobahiadev**  
 https://github.com/manobahiadev/customwoocheckout
+
+---
+
+## Licença
+
+MIT License
+
+
