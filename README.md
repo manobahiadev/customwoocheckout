@@ -83,7 +83,7 @@ Copyright (c) 2025 [ManoBahia.Dev]
 ---
 
 **Desenvolvido por manobahiadev**  
-https://github.com/manobahiadev/customwoocheckout
+https://github.com/manobahiadev
 
 ---
 
